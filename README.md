@@ -1,1 +1,2 @@
-# pankajkalania.github.io-ecommerse-fashion-website
+# Lifestyle store
+ecommerse-fashion-website
